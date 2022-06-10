@@ -1,5 +1,17 @@
 # @backstage/plugin-scaffolder
 
+## 1.3.0-next.3
+
+### Minor Changes
+
+- f93af969cd: Added the ability to support running of templates that are not in the `default` namespace
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.9.5-next.3
+  - @backstage/catalog-client@1.0.3-next.1
+
 ## 1.3.0-next.2
 
 ### Minor Changes

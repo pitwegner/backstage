@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog
 
+## 1.3.0-next.2
+
+### Minor Changes
+
+- fe7614ea54: Add an optional icon to the Catalog and TechDocs search results
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.9.5-next.3
+  - @backstage/catalog-client@1.0.3-next.1
+
 ## 1.2.1-next.1
 
 ### Patch Changes

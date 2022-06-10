@@ -1,5 +1,11 @@
 # @backstage/create-app
 
+## 0.4.28-next.3
+
+### Patch Changes
+
+- 0e870fe0ac: Removed peer dependencies, as they are no longer needed.
+
 ## 0.4.28-next.2
 
 ### Patch Changes

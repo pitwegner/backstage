@@ -1,5 +1,16 @@
 # @backstage/plugin-techdocs-addons-test-utils
 
+## 1.0.1-next.2
+
+### Patch Changes
+
+- d047d81295: Update default mock
+- Updated dependencies
+  - @backstage/plugin-catalog@1.3.0-next.2
+  - @backstage/plugin-techdocs@1.2.0-next.2
+  - @backstage/core-components@0.9.5-next.3
+  - @backstage/core-app-api@1.0.3-next.1
+
 ## 1.0.1-next.1
 
 ### Patch Changes

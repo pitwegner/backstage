@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend-module-gitlab
 
+## 0.1.4-next.3
+
+### Patch Changes
+
+- bad907d794: The `last_activity_after` timestamp is now being omitted when querying the GitLab API for the first time.
+- Updated dependencies
+  - @backstage/backend-common@0.14.0-next.3
+
 ## 0.1.4-next.2
 
 ### Patch Changes

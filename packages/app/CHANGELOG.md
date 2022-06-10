@@ -1,5 +1,18 @@
 # example-app
 
+## 0.2.72-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog@1.3.0-next.2
+  - @backstage/plugin-techdocs@1.2.0-next.2
+  - @backstage/core-components@0.9.5-next.3
+  - @backstage/plugin-tech-radar@0.5.13-next.2
+  - @backstage/core-app-api@1.0.3-next.1
+  - @backstage/plugin-scaffolder@1.3.0-next.3
+  - @backstage/plugin-api-docs@0.8.6-next.2
+
 ## 0.2.72-next.2
 
 ### Patch Changes

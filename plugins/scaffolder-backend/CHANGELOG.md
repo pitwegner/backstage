@@ -1,5 +1,19 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.3.0-next.3
+
+### Minor Changes
+
+- 35a26131b3: **DEPRECATION**: The `projectid` input parameters to the `publish:gitlab:merge-request`, it's no longer required as it can be decoded from the `repoUrl` input parameter.
+  **DEPRECATION**: The `projectid` output of the action in favour of `projectPath`
+- f93af969cd: Added the ability to support running of templates that are not in the `default` namespace
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.14.0-next.3
+  - @backstage/catalog-client@1.0.3-next.1
+
 ## 1.3.0-next.2
 
 ### Minor Changes

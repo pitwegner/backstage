@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs
 
+## 1.2.0-next.2
+
+### Minor Changes
+
+- fe7614ea54: Add an optional icon to the Catalog and TechDocs search results
+
+### Patch Changes
+
+- d047d81295: Use entity title as label in `TechDocsReaderPageHeader` if available
+- Updated dependencies
+  - @backstage/core-components@0.9.5-next.3
+
 ## 1.1.2-next.1
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-bazaar
 
+## 0.1.21-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog@1.3.0-next.2
+  - @backstage/core-components@0.9.5-next.3
+  - @backstage/catalog-client@1.0.3-next.1
+
 ## 0.1.21-next.1
 
 ### Patch Changes
